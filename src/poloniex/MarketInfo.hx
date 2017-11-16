@@ -1,0 +1,5 @@
+package poloniex;
+
+typedef MarketInfo = {
+		
+}

@@ -1,0 +1,10 @@
+{
+  "name": "NEM-sdk-haxe",
+  "url" : "https://github.com/axpos/NEM-sdk-haxe",
+  "license": "MIT",
+  "tags": ["crypto", "js", "web"],
+  "description": "Haxe externs for NEM-sdk",
+  "version": "0.1.0",
+  "releasenote": "initial release",
+  "contributors": ["axpos"]
+}
